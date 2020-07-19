@@ -1,0 +1,31 @@
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.exe.config
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.exe
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.pdb
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.xml
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.vbprojAssemblyReference.cache
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX_Config_Editor.AboutBox1.resources
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX_Config_Editor.Form1.resources
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX_Config_Editor.Resources.resources
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.vbproj.GenerateResource.cache
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.vbproj.CoreCompileInputs.cache
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.exe
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.xml
+C:\Users\Kappa\source\repos\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.pdb
+F:\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.exe.config
+F:\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.exe
+F:\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.pdb
+F:\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.xml
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.vbprojAssemblyReference.cache
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX_Config_Editor.AboutBox1.resources
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX_Config_Editor.Form1.resources
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX_Config_Editor.Resources.resources
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.vbproj.GenerateResource.cache
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.vbproj.CoreCompileInputs.cache
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.exe
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.xml
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.pdb
+F:\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.exe.manifest
+F:\DOSBOX Config Editor\DOSBOX Config Editor\bin\Release\DOSBOX Config Editor.application
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.TrustInfo.xml
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.exe.manifest
+F:\DOSBOX Config Editor\DOSBOX Config Editor\obj\Release\DOSBOX Config Editor.application
